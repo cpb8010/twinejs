@@ -1493,10 +1493,10 @@ bindings@^1.5.0:
   dependencies:
     file-uri-to-path "1.0.0"
 
-blob-polyfill@^1.0.20150320:
-  version "1.0.20150320"
-  resolved "https://registry.yarnpkg.com/blob-polyfill/-/blob-polyfill-1.0.20150320.tgz#03692dd6820569ef25a87632fa619c951d5748da"
-  integrity sha1-A2kt1oIFae8lqHYy+mGclR1XSNo=
+blob-polyfill@^4.0.20190430:
+  version "4.0.20190430"
+  resolved "https://registry.yarnpkg.com/blob-polyfill/-/blob-polyfill-4.0.20190430.tgz#b7e1f2e8e8f9733a89416f35d436de4e2f5c9661"
+  integrity sha512-REie9DM5XvHcqa9tuVT1QverzNpPbuRGffFGfwtHhZLHoToiAFP2YxHqVTQvET+UYnjRttGnlWag0+i3YgPKtw==
 
 bluebird-lst@^1.0.6:
   version "1.0.6"
