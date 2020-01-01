@@ -45,7 +45,7 @@
 		"mkdirp-promise": "^5.0.1",
 		"moment": "^2.10.3",
 		"osenv": "^0.1.5",
-		"scroll": "^2.0.0",
+		"scroll": "^3.0.1",
 		"segseg": "^0.2.2",
 		"semver-utils": "^1.1.1",
 		"tether-drop": "^1.4.2",
