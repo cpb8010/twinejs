@@ -83,7 +83,7 @@
 		"jsdom": "^11.2.0",
 		"jsdom-global": "^3.0.2",
 		"json-loader": "^0.5.7",
-		"less": "^2.7.1",
+		"less": "^3.13.1",
 		"less-loader": "^5.0.0",
 		"less-plugin-autoprefix": "^1.5.1",
 		"mini-css-extract-plugin": "^0.4.4",
