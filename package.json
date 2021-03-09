@@ -56,7 +56,7 @@
 		"vuex": "^1.0.0"
 	},
 	"devDependencies": {
-		"@babel/core": "^7.1.2",
+		"@babel/core": "^7.13.10",
 		"@babel/preset-env": "^7.2.3",
 		"acorn": "^4.0.3",
 		"babel-loader": "^8.0.5",
